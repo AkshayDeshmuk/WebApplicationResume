@@ -1,0 +1,1 @@
+FirstName = Tushar | LastName = K | Telephone No = 7865432345 | Date of Birth=2021-12-27 | Email=tushar@gmail.com | Gender=Male | Education=BTECH | C# Angular html |

@@ -1,0 +1,1 @@
+FirstName = Aksh | LastName = Deshmukh | Telephone No = 9834491015 | Date of Birth=2021-09-27 | Email=ardeshmukh45@gmail.com | Gender=Male | Education=BTECH | C# Angular html |

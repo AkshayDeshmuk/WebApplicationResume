@@ -1,0 +1,1 @@
+FirstName = Manish | LastName = J | Telephone No = 7865432567 | Date of Birth=2021-07-26 | Email=manish@gmail.com | Gender=Male | Education=BTECH | Java C# |
